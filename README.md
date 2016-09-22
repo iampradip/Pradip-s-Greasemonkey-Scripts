@@ -12,3 +12,8 @@ Some of greasemonkey scripts I have made in last few years.
 - `Serif_Font_for_Articles.user.js` Analyzes page content, sets default Serif font to possible articles, stories, etc. Allows setting minimum font size from UserScript Commands menu.
 - `Sort_Tables.user.js` Any table on any page can be sorted. Hold shift and click on first row of table to sort. Hold Ctrl with Shift to include header in sorting.
 - `YouTube_Real_Thumbnails.user.js` Replaces video thumbnails on YouTube with real thumbnail. Thumbnail represents image from video and it's lower quality.
+
+## How to Install ##
+1. Install Greasemonkey Addon in your browser.
+2. Click on user.js file to install.
+3. Click on Raw button on code page.
